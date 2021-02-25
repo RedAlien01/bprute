@@ -44,7 +44,10 @@ print color('bold red'),"v2.1\n\n";
 print color('bold red'),"\t\t        [";
 print color('bold white'),"PenecuriCode - Meow404";
 print color('bold red'),"]\n";
-print color('bold green'),"==================================================================================\n\n";
+print color('bold red'),"\t\t        [";
+print color('bold white'),"Github : https://github.com/penucuriCode";
+print color('bold red'),"]\n";
+print color('bold green'),"================================================================================\n";
 print color('reset');
 };
 
